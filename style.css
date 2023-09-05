@@ -1,0 +1,29 @@
+div, body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    
+
+}
+
+ul{
+    font-size: 35px;
+    list-style-type: none;
+}
+
+
+    a:link {
+        color: black;
+    }
+    a:visited {
+        color: black;
+    }
+    a:hover{
+        color:gray;
+    }
+    a:active{
+        color:white;
+    }
